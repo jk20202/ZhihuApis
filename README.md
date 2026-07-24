@@ -201,18 +201,21 @@ docker run -d -p 5007:5007 zhihu-platform
 
 
 ## 📈 Star 趋势
-<a href="https://www.star-history.com/#cv-cat/ZhihuApis&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=cv-cat/ZhihuApis&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=cv-cat/ZhihuApis&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=cv-cat/ZhihuApis&type=Date" />
- </picture>
+
+<a href="https://cvcat.site/star-history/svg?repos=cv-cat/ZhihuApis&type=Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cvcat.site/star-history/svg?repos=cv-cat/ZhihuApis&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cvcat.site/star-history/svg?repos=cv-cat/ZhihuApis&type=Date" />
+    <img alt="Star History Chart" src="https://cvcat.site/star-history/svg?repos=cv-cat/ZhihuApis&type=Date" />
+  </picture>
 </a>
 
-
 ## 🍔 交流群
+
 如果你对爬虫和 AI Agent 感兴趣，请加作者主页 wx 通过邀请加入群聊
 
-ps: 群123已超过wx限制人数500，请加群4
+ps: 请加群，人满或者过期 issue | wx 提醒
 
-![06f69d67ff814b84e122bb32d123075b](https://github.com/cv-cat/Spider_XHS/blob/master/author/group4_2026_04_08)
+| group-1 | group-2 | group-3 |
+|:--:|:--:|:--:|
+| <img width="280" alt="group1" src="https://cvcat.site/assets/group1.jpg" /> | <img width="280" alt="group2" src="https://cvcat.site/assets/group2.jpg" /> | <img width="280" alt="group3" src="https://cvcat.site/assets/group3.jpg" /> |
